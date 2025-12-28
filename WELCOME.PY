@@ -1,0 +1,6 @@
+print("Welcome to the world of coding!")
+print("Let's get started with some basic inputs.")
+n=int(input("Enter number n: "))
+print("You entered integer:", n)
+f=float(input("Enter float Value: "))
+print("You entered float:", f)
