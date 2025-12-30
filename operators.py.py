@@ -1,0 +1,8 @@
+print("The addition of 10 and 5 is:", 10+5)
+print("The subtraction of 10 and 5 is:", 10-5)
+print("The multiplication of 10 and 5 is:", 10*5)
+print("The division of 10 and 5 is:", 10/5)
+print("The floor division of 10 and 3 is:", 10//3)
+print("The modulus of 10 and 3 is:", 10%3)
+print("The power of 10 and 3 is:", 10**3)
+print("The result of (10+5)*3 is:", (10+5)*3)
