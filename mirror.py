@@ -11,7 +11,7 @@ def mirror_chars(s):
     return mirrored_string
 
 # Example usage:
-input_string = "studytonight"
+input_string =input("Enter a string to get mirror string:")
 result = mirror_chars(input_string)
 print(f"Original: {input_string}")
 print(f"Mirrored: {result}")
